@@ -1,4 +1,4 @@
-#Basic OOP Terminology
+## Basic OOP Terminology
 
 - Class: An abstract description of the data and behavior of a collection of similiar objects.
 
