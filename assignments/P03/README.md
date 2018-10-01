@@ -1,1 +1,1 @@
-![C:\Users\ColtonBoyd\Pictures\SFMLWorks.png]
+![C:\Users\ColtonBoyd\Pictures\SFMLWorks.jpg]
