@@ -1,1 +1,1 @@
-! [SFML Works] (Libraries/Pictures/SFMLWorks.png)
+! [SFML Works] (Libraries/Pictures)
