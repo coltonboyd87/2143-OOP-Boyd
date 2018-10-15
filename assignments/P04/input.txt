@@ -45,5 +45,4 @@
 
 
 
-Colton Boyd 
-CMPS2143 - OOP
+
