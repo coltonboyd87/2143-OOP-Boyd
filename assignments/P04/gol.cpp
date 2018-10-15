@@ -103,11 +103,11 @@ public:
 
 
 /////////////////////////////////
-//							   //
-//	    Game Of Life		   //
-//	   Implementation		   //
-//							   //
-//							   //
+//			       //
+//	    Game Of Life       //
+//	   Implementation      //
+//		               //
+//                             //
 /////////////////////////////////
 /**
 * Name:GameOfLife()
