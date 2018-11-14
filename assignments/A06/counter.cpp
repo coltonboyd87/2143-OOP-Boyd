@@ -190,9 +190,9 @@ counter::counter(int stime, int etime, float xCoord, float yCoord) {
 */
 void counter::setParameterRec() {
 	rectangle.setSize(Vector2f(100, 100));
-	rectangle.setFillColor(Color::Black);
-	rectangle.setOutlineColor(Color::Green);
-	rectangle.setOutlineThickness(2);
+	rectangle.setFillColor(Color::White);
+	rectangle.setOutlineColor(Color::Red);
+	rectangle.setOutlineThickness(3);
 	rectangle.setOrigin(50, 50);
 	rectangle.setPosition(xCordinate, yCordinate);
 	return;
@@ -208,8 +208,8 @@ void counter::setParameterRec() {
 */
 void counter::setParameterText() {
 	text.setFont(font);
-	text.setCharacterSize(48);
-	text.setFillColor(Color::Red);
+	text.setCharacterSize(50);
+	text.setFillColor(Color::Black);
 	text.setOrigin(24, 24);
 	text.setPosition(xCordinate, yCordinate);
 	return;
