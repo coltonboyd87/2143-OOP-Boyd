@@ -10,4 +10,8 @@
 - Cannot be accessed, or even viewed from outside the class. Only the class and friend functions can access private members. 
 - By default everything is declared private if it is not explicitally declared public or protected. 
 
+## Protected member 
+- Similiar to private member. 
+- Can be accessed in derived classes of Base Classes. 
+
 
