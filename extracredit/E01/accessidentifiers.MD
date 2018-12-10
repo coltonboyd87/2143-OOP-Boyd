@@ -14,4 +14,7 @@
 - Similiar to private member. 
 - Can be accessed in derived classes of Base Classes. 
 
+## Output of protected.cpp: 
+15 
+
 
