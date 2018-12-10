@@ -1,12 +1,16 @@
 #include <iostream>
 using namespace std; 
 
+//Class Rectangle 
 class Rectangle 
 {
+  //Private data memebrs 
   private:
   double length;
   double width; 
 
+  //Pubic functions to manipulate private data members
+  //Include setters and getters 
   public:
   void setLength(double l)
   {
@@ -24,6 +28,7 @@ class Rectangle
   }
 };
 
+//Main function 
 int main()
 {
   Rectangle Rec;
