@@ -7,5 +7,5 @@
 - Declaring data members private. 
 - Make public setter and getter methods for each data memeber to set and get values of our data members. 
 
-## Output of Example: 
+## Output of encapsulation.cpp: 
 35
